@@ -1,8 +1,10 @@
 {
   "expo": {
-    "name": "Tétée App",
+    "name": "Tetee App",
     "slug": "tetee-app",
     "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "platforms": ["android", "ios"],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -10,8 +12,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "sdkVersion": "50.0.0",
-    "platforms": ["android", "ios"],
     "userInterfaceStyle": "light"
   }
 }
